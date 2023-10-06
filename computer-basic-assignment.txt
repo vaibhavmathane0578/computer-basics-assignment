@@ -1,0 +1,42 @@
+Certainly, here are the answers with the bold text removed:
+
+1. What is a Computer?
+   A computer represents an electronic device with the capacity to receive, store, process, and output data. It serves as a versatile machine capable of executing a wide range of tasks, from performing complex computations to running software applications, browsing the internet, and more. Computers come in various forms, including personal computers, laptops, servers, and mobile devices, and they function based on instructions provided by both software and hardware components.
+
+2. What is RAM?
+   RAM, or Random Access Memory, denotes a type of computer memory that offers rapid and temporary storage for data currently in use or undergoing processing by the computer. It constitutes a volatile memory, meaning that its contents are lost when the computer powers off or restarts. RAM plays a pivotal role in computer performance by facilitating swift access to data and instructions required by the CPU (Central Processing Unit).
+
+3. Where is data stored in a Computer?
+   Data within a computer finds storage in several locations, with the primary storage locations encompassing:
+   - RAM (for temporary data storage during computer operation).
+   - Hard Disk Drive (HDD) or Solid State Drive (SSD) for long-term data storage.
+   - External storage devices, such as USB drives, CDs, DVDs, and networked storage.
+   - Cloud storage services accessible via the internet.
+
+4. What is the input device used to type text and numbers on a document in the Computer system?
+   The input device employed for typing text and numbers onto a document within the computer system is commonly referred to as the keyboard. Keyboards enable users to input alphanumeric characters and various commands into the computer by pressing keys.
+
+5. What are the output devices?
+   Output devices within a computer system are hardware components responsible for displaying or providing information to the user. Typical output devices encompass:
+   - Monitor/Display: Utilized for visually presenting text, images, and videos.
+   - Printer: Employed to generate physical copies of documents or images.
+   - Speakers: Utilized for playing audio and sound.
+   - Projector: Employed to display images and videos on a larger screen or surface.
+
+6. Which input device allows a user to move the cursor or pointer on the screen?
+   The input device that grants users the capability to maneuver the cursor or pointer on the screen is typically known as the mouse. Modern mice frequently feature additional buttons and functionalities, facilitating actions such as scrolling and right-clicking.
+
+7. Which language is directly understood by the Computer without a translation program?
+   The language that a computer directly comprehends, devoid of a translation program, is referred to as machine language or binary code. Machine language consists of binary instructions represented as sequences of 0s and 1s, which the computer's CPU (Central Processing Unit) can execute directly. Nevertheless, machine language is exceedingly low-level and impractical for human programming. Programmers employ higher-level programming languages like Java, C++, Python, and others to write code, which is subsequently translated into machine code by compilers or interpreters.
+
+8. What are Input devices?
+   Input devices encompass hardware components or peripherals responsible for enabling users to provide data and instructions to a computer. These devices facilitate the input of various types of information into the computer system. Common examples of input devices include:
+   - Keyboard (for typing text and issuing commands).
+   - Mouse (for pointing, clicking, and dragging).
+   - Touchscreen (for direct interaction with the screen).
+   - Microphone (for audio input).
+   - Scanner (for converting physical documents or images into digital format).
+   - Webcam (for capturing video and images).
+   - Joystick (for gaming and control applications).
+   - Barcode reader (for scanning barcodes on products or documents).
+   - Sensors (such as gyroscopes or accelerometers) for detecting motion or orientation.
